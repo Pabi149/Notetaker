@@ -4,7 +4,8 @@ Express.js Project-Note Taker
 This is an app where user can write and save notes by typing notes title nad descriptions. It is made by using Express.js.This app was not made from the scratch, infact a starter code was provided.
 # Table of Contents
 Prerequisites <br />
-Installation
+Installation  <br />
+Deployment Link
 # Prerequisites
 NodeJS
 
@@ -19,6 +20,13 @@ Run npm install to install all dependencies. To use the application locally, run
 ![alt text](notetaker.png)
 
 ![alt text](notetaker01.png)
+
+# Deployment Link
+Heroku app: https://exp-notetaker.herokuapp.com/notes
+
+
+
+
 
 
 
