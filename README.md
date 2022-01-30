@@ -3,7 +3,7 @@ Express.js Project-Note Taker
 # Description
 This is an app where user can write and save notes by typing notes title nad descriptions. It is made by using Express.js.This app was not made from the scratch, infact a starter code was provided.
 # Table of Contents
-Prerequisites 
+Prerequisites <br />
 Installation
 # Prerequisites
 NodeJS
