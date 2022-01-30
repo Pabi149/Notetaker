@@ -22,7 +22,8 @@ Run npm install to install all dependencies. To use the application locally, run
 ![alt text](notetaker01.png)
 
 # Deployment Link
-Heroku app: https://exp-notetaker.herokuapp.com/notes
+Heroku app: https://exp-notetaker.herokuapp.com
+
 
 
 
